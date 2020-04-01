@@ -1,0 +1,12 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: password
+    pool-size: 30
+
+
+#server:
+#  servlet:
+#    context-path: /api
+
